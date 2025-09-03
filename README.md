@@ -33,4 +33,3 @@ Desarrollar un programa en consola en el lenguaje de programación Python que im
 •	Actualizar venta: Permite al usuario seleccionar una venta por su número y actualizar el monto en ventas.txt.
 •	Eliminar venta: Permite al usuario eliminar una venta por su número de ventas.txt.
 •	Mostrar registro de ventas: Muestra todas las ventas con su número, fecha y monto.
-<img width="442" height="651" alt="image" src="https://github.com/user-attachments/assets/9586ea5d-3d37-4147-90ba-898a5ea7e230" />
